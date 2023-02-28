@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531923879365",
+    "project_id": "asiawolrd",
+    "storage_bucket": "asiawolrd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531923879365:android:c5d813c57469d9189037ac",
+        "android_client_info": {
+          "package_name": "com.asiaworld.anakutdigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531923879365-13f1im3o5kmbb5u99d564r77p43q5k65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVo9paNm4k32Y6RFpWa5vL9VapMKDt5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531923879365-13f1im3o5kmbb5u99d564r77p43q5k65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
